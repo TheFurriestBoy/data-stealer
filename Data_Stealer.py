@@ -21,5 +21,5 @@ compiledData = "Your name is {}. You are {} years old, and live in {}. You enjoy
 # the data we stole
 
 print(compiledData)
-
+end = input("to end, press enter.")
 
